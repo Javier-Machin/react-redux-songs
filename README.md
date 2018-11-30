@@ -12,7 +12,7 @@ To run it locally:
 
 ----------------------------------
 
-React app para obtener imágenes mediante una API y mostrarlas es una cuadrícula.
+React app que muestra los detalles de una canción al hacer click para practicar Redux.
 
 Es un ejercicio para el curso Modern React de Stephen Grider's.
 
